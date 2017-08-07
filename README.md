@@ -1,6 +1,6 @@
 # MrRobot
 
-A C# project the moves a robot around a room counting the unique places it has visited.
+A C# project that moves a robot around a room counting the unique places it has visited.
 
 # What Does It Do
 
