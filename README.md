@@ -18,3 +18,8 @@ A C# project that moves a robot around a room counting the unique places it has 
 # Output
 
   - The output will be the number of unique places the robot has been
+
+# Tests
+  - The robot moves in a circle
+  - The robot goes left then right
+  - The robot goes in a figure eight
