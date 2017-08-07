@@ -1,0 +1,6 @@
+D:\Personal\Denise\cint\cint\bin\Debug\MrRobot.exe.config
+D:\Personal\Denise\cint\cint\bin\Debug\MrRobot.exe
+D:\Personal\Denise\cint\cint\bin\Debug\MrRobot.pdb
+D:\Personal\Denise\cint\cint\obj\Debug\MrRobot.exe
+D:\Personal\Denise\cint\cint\obj\Debug\MrRobot.pdb
+D:\Personal\Denise\cint\cint\obj\Debug\MrRobot.csprojResolveAssemblyReference.cache
